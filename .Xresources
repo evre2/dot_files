@@ -1,0 +1,10 @@
+xterm*foreground: white
+xterm*background: black
+xterm*faceName: Ttyp0:style=Bold
+xterm*faceSize: 14
+xterm*savelines: 16000
+xterm*alternateScroll:true
+XTerm*alternateScroll: true
+xterm*metaSendsEscape: true
+xterm*ScrollBar: false
+xterm*BorderWidth: 3
